@@ -107,8 +107,11 @@ const buildRootSidebar = (): DefaultTheme.SidebarGroup[] => {
 
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
+  title: 'AI Note',
+  description: 'AI Note',
   base: process.env.BASE_PATH || '/',
   themeConfig: {
+    siteTitle: 'AI Note',
     sidebar: buildRootSidebar()
   },
   head: [
