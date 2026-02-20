@@ -110,5 +110,8 @@ export default defineConfig({
   base: process.env.BASE_PATH || '/',
   themeConfig: {
     sidebar: buildRootSidebar()
-  }
+  },
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ]
 })
