@@ -44,9 +44,7 @@ const buildSidebarItems = (relativeDir = ''): DefaultTheme.SidebarItem[] => {
 
       const group: DefaultTheme.SidebarItem = {
         text: directoryName,
-        items: childItems,
-        collapsible: true,
-        collapsed: false
+        items: childItems
       }
 
       return group
