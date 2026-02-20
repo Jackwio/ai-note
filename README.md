@@ -35,10 +35,15 @@ npm run build
 6. 根目錄其他 `.md`（例如 `promptfile.md`）會放在「根目錄」群組。
 7. 目錄與檔案會以 `zh-Hant` locale 做排序。
 8. 根層資料夾群組預設為收合（collapsed）。
+9. 所有資料夾與子資料夾都可收合（collapsible）。
 
 ## 資料夾收合設定
 
-目前設定為：**根層資料夾預設全部收合**。
+目前設定為：
+
+- 根層資料夾：`collapsible: true`，預設收合（可用 `expandedTopLevelDirs` 白名單展開）。
+- 子層資料夾：`collapsible: true`，預設展開（可由使用者手動收合）。
+- 「根目錄」群組：`collapsible: true`，預設展開。
 
 - 設定位置：`docs/.vitepress/config.ts`
 - 變數：`expandedTopLevelDirs`
