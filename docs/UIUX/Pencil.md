@@ -1,0 +1,3 @@
+https://dotblogs.com.tw/yc421206/2026/01/31/pencil_ai_design_workflow_practical_guide
+
+https://www.pencil.dev/downloads?fbclid=IwY2xjawP-G91leHRuA2FlbQIxMABicmlkETJrUGR1ZzBzaEZXcTdRTGljc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvpQxyjckLdBaOlBZ9nY0jjlSlxcovfl7sSHhFUUqOGUf5Ii7KpweG0T0usF_aem_URorIB0slljySkQRDnR-Ug
