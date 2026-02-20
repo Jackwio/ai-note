@@ -115,6 +115,6 @@ export default defineConfig({
     sidebar: buildRootSidebar()
   },
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/nanobanana-1771602145580.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: 'https://jackwio.github.io/my-github-pages/will-icon.png' }]
   ]
 })
