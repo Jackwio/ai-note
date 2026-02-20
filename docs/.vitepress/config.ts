@@ -117,6 +117,6 @@ export default defineConfig({
     sidebar: buildRootSidebar()
   },
   head: [
-    ['link', { rel: 'icon', href: '../../nanobanana-1771598723284.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/nanobanana-1771602145580.png' }]
   ]
 })
