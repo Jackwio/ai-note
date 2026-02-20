@@ -1,6 +1,6 @@
 # ai-note
 
-![](https://jackwio.github.io/my-github-pages/ai-note.png)
+![](https://jackwio.github.io/my-github-pages/ai-notes.png)
 
 以 VitePress 建立的技術筆記站，內容放在 `docs/`。
 
